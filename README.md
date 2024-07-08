@@ -1,16 +1,17 @@
 # ngdemo6
 
-A new Flutter project.
+A new Flutter UI project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#Facebook
+![photo_2024-07-08_23-35-49](https://github.com/juratsobirov/ngdemo6/assets/171447978/63eafa22-9161-4a97-8c6e-d67da69298f6)
+![photo_2024-07-08_23-35-49 (2)](https://github.com/juratsobirov/ngdemo6/assets/171447978/a72e88a8-1aed-40ed-8ad1-5ec56a84e9d3)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#Amazon
+![photo_2024-07-08_23-37-26](https://github.com/juratsobirov/ngdemo6/assets/171447978/c3f4517b-5236-4cf1-a59f-c0e39fcaafaa)
+![photo_2024-07-08_23-37-26 (2)](https://github.com/juratsobirov/ngdemo6/assets/171447978/eda42cc8-9047-4b14-9e3e-093ef44b7668)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
